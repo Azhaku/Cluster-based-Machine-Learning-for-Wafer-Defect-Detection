@@ -1,22 +1,5 @@
 # Cluster-based-Machine-Learning-for-Wafer-Defect-Detection
 
-<div align="center">
-
-# Wafers-Fault-Detection
-
-<img src="./Readme_Assets/semi.png" width="200" height="200">
-
-[![GitHub license](./Readme_Assets/license-MIT-green.svg)](./LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/kannanjayachandran/Wafers-Fault-Detection)](https://GitHub.com/kannanjayachandran/Wafers-Fault-Detection/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/kannanjayachandran/Wafers-Fault-Detection)]()
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/kannanjayachandran/Wafers-Fault-Detection)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/kannanjayachandran/Wafers-Fault-Detection?style=social)](https://GitHub.com/kannanjayachandran/wafers/watchers/)
-[![GitHub forks](https://img.shields.io/github/forks/kannanjayachandran/Wafers-Fault-Detection?style=social)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
-[![GitHub stars](https://img.shields.io/github/stars/kannanjayachandran/Wafers-Fault-Detection?style=social)](https://github.com/kannanjayachandran/Wafers-Fault-Detection/stargazers/)
-</div>
-
 ## About
 
 ### An end-to-end machine learning project for detecting faults in wafer sensor
@@ -49,16 +32,8 @@
 <img src="./Readme_Assets/Arch.png" width="700" height="600">
 </div>
 
-**Detailed explanation of the complete project is given in the [Project Structure](./Readme_Assets/Structure.md) It contains the documentation of the project.**
 
 >Inside each folder, there is a readme file which contains the documentation of the folder. It would contain information like what is the purpose of the folder, what are the files inside the folder, what are the functions present in the files, etc.
 
 > `The idea of this whole project is to learn some machine learning concepts, building and end-to-end machine product that actually works or is useful to others, and to learn how to deploy a machine learning model on a web application. I would follow the best coding practices and document the project as much as possible.`
 
-**[Main ToDo](./Readme_Assets/ToDo.md)**
-
-**[Contributions](./CONTRIBUTING.md)**
-
-**[References](./Readme_Assets/Reference.md)**
-
-**[License](./LICENSE)**
